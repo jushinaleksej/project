@@ -3,7 +3,7 @@
 alert('hello');
 
 //const result = confirm("Are you here?");
-c//onsole.log(result);
+//console.log(result);
 
 //const answer = +prompt("Вам есть 18?", "18");
 //console.log(answer + 5);
